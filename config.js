@@ -7,7 +7,7 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = ['2347045035241', 'Excel', true]
+global.owner = ['919567979878', 'Excel', true]
  //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
@@ -49,21 +49,21 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'STAR-V2'
+global.botname = '𝗠𝗗𝗥 𝗗𝗔𝗥𝗞-𝗠𝗗'
 global.premium = 'true'
-global.packname = 'EX-BOTS_TEAM' 
-global.author = '@EXCEL' 
+global.packname = '𝗠𝗥 𝗗𝗔𝗥𝗞-𝗢𝗙𝗖' 
+global.author = '@𝗠𝗥-𝗗𝗔𝗥𝗞' 
 global.menuvid = 'https://i.imgur.com/p7sdeTT.mp4'
 global.igfg = '▢✓ Follow My channel_ https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
-global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
+global.fgsc = 'https://github.com/ajithaajitha952' 
 global.fgyt = 'https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m'
 global.fgpyp = 'https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m'
 global.fglog = 'STAR.jpg' 
 global.thumb = fs.readFileSync('./STAR.jpg')
 
 
-global.wait = '*🕣 _STAR IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _𝗠𝗥 𝗗𝗔𝗥𝗞 IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
